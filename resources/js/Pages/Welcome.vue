@@ -177,3 +177,11 @@ defineProps({
         </div>
     </div>
 </template>
+<script>
+    import { DefineComponent } from 'vue';
+    import {Head, Link } from '@inertiajs/inertia-vue3';
+    import JetApplicationMark from '@/JetStream/ApplicationMark';
+    import JetButton from '@/Jetstream/Button';
+    import Section from '@/Components/Section';
+    import Skills from '@/Components/Skills';
+</script>
