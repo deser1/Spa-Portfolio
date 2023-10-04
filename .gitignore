@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-node_modules
-=======
 /node_modules
 /public/build
 /public/hot
@@ -21,4 +18,3 @@ yarn-error.log
 /.vscode
 /.vs
 /.vs/slnx.sqlite
->>>>>>> 4a8f79307f65c3cbc6ec04a84f8e228b8c05a18e
